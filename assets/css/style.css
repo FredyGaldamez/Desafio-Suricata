@@ -1,0 +1,39 @@
+/body {
+   font-family: "Open Sans";
+ }
+ 
+ header{
+   background-color: #E83E8C;
+ }
+ 
+ .navbar-logo {
+   max-width: 200px;   
+ }
+ 
+ .icons{
+   color: #ffffff;
+   background-color:#17A2B8;
+ }
+
+.h2 {
+    background-color: #707070;
+ }
+
+ footer{
+   background-color: #E83E8C;
+ }
+ 
+ .img-footer {
+   max-width: 83px;
+ }
+
+ .icono {
+ text-align: right;
+ color: white;
+ display: inline-block;
+ } 
+
+ .h2, .icono {
+    display: inline-block;
+    }
+    
